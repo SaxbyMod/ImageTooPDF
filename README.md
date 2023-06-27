@@ -6,7 +6,7 @@ How to use:
 
 Put the images you want in the pdf into the Old folder 
 
-Run `Run_This_To_Make_Images_for_the_PDF.py`
+Configure & Run `Run_This_To_Make_Images_for_the_PDF.py`
 
 Run `Make the PDF.py`
 
